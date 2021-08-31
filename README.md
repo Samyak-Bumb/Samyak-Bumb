@@ -16,6 +16,4 @@ Skills: HTML / CSS / JS / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samyak-Bumb)  
-
 ![Profile views](https://gpvc.arturio.dev/Samyak-Bumb)  
