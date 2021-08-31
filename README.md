@@ -9,5 +9,5 @@ Skills: HTML /  CSS / JS / Python
 - ⚡ Fun fact: I'm a 16 Years old Guy 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/samyak-bumb)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Samyak-Bumb)  
 
