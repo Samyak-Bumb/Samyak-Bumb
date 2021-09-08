@@ -12,10 +12,10 @@ Skills: HTML / CSS / JS / Python
 
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samyak-Bumb&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="Samyak-Bumb" /></span></td>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=cswesh&show_icons=true&locale=en&theme=radical" alt="cswesh" /></span></td>
 
 
 
-![Profile views](https://gpvc.arturio.dev/Samyak-Bumb)  
+![Profile views](https://gpvc.arturio.dev/Samyak-Bumb)
