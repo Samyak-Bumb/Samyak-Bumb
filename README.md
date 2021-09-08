@@ -13,4 +13,5 @@ Skills: HTML / CSS / JS / Python
 <table><tbody><tr style="border: none !important;"
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cswesh&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="cswesh" /></span></td>
 </tr></tbody></table>
+
 ![Profile views](https://gpvc.arturio.dev/Samyak-Bumb)  
