@@ -12,7 +12,7 @@ Skills: *HTML* / *CSS* / *JS* / *Python*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/samyakbumb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samyakbumb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/samyak computer planet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samyak computer planet" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/samyakcomputerplanet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samyakcomputerplanet" height="30" width="40" /></a>
 </p>
 
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samyak-Bumb&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="Samyak-Bumb" /></span></td>
