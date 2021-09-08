@@ -8,7 +8,6 @@ Skills: *HTML* / *CSS* / *JS* / *Python*
 - 📫 How to reach me: bumbsamyak07@gmail.com 
 - ⚡ Fun fact: I'm a 16 Years old Guy
    <br>
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/Samyak-Bumb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA) -->
 <p align="left">
 <a href="https://codepen.io/samyakbumb" target="_blank" "style=margin: 1000px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Samyak Bumb" height="40" width="40"></a><a href="https://github.com/samyak-bumb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samyak-bumb" height="40" width="40"></a>
 <a href="https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA" height="40" width="40"></a>
