@@ -1,7 +1,7 @@
 <!-- Created/Designed By Samyak Bumb -->
 ### Hi there 👋, My Name is Samyak Bumb
-I made more than 50 projects.
-Skills: HTML / CSS / JS / Python
+I Made More than *60* Projects.
+Skills: *HTML* / *CSS* / *JS* / *Python*
 - 🔭 I’m currently working on Front-End-Development 
 - 🌱 I’m currently learning Everything🤣😅 
 - 📫 How to reach me: bumbsamyak07@gmail.com 
