@@ -3,8 +3,8 @@
 I Made More than *60* Projects.
 
 Skills: *HTML* / *CSS* / *JS* / *Python*
-- 🔭 I’m currently working on Front-End-Development 
-- 🌱 I’m currently learning Everything🤣😅 
+- 🔭 I’m currently working on: Front-End-Development 
+- 🌱 I’m currently learning: Everything🤣😅 
 - 📫 How to reach me: bumbsamyak07@gmail.com 
 - ⚡ Fun fact: I'm a 16 Years old Guy
    <br>
