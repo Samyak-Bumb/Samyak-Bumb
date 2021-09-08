@@ -24,5 +24,6 @@ Skills: *HTML* / *CSS* / *JS* / *Python*
    user-select: none;
    }
 <style>
+   
 
    ![Profile views](https://gpvc.arturio.dev/Samyak-Bumb)
