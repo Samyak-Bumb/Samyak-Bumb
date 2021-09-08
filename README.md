@@ -1,5 +1,5 @@
 <!-- Created/Designed By Samyak Bumb -->
-### "Hello World" 👋, My Name is Samyak Bumb
+### "Hello World" 👋, My Name is Samyak Bumb.
 I Made More than *60* Projects.
 
 Skills: *HTML* / *CSS* / *JS* / *Python*
