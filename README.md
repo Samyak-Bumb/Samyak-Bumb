@@ -12,7 +12,7 @@ Skills: *HTML* / *CSS* / *JS* / *Python*
 <p align="left">
 <a href="https://codepen.io/samyakbumb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samyak-bumb" height="30" width="40" /></a>
    
-   <a href="github.com/samyak-bumb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samyak-bumb" height="30" width="40" /></a>
+   <a href="https://github.com/samyak-bumb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samyak-bumb" height="30" width="40" /></a>
    
 <a href="https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA" height="30" width="40" /></a>
 </p>
