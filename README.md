@@ -16,8 +16,7 @@ Skills: HTML / CSS / JS / Python
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samyak-Bumb&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="Samyak-Bumb" /></span></td>
 <!-- </tr></tbody></table> -->
 
-
-<td style="border: none !important;"><span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cswesh&theme=radical" alt="cswesh" /></a></span></td>
+<table><tbody><tr style="border: none !important;">
 
 
 ![Profile views](https://gpvc.arturio.dev/Samyak-Bumb)  
