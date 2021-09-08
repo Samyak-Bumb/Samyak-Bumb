@@ -10,8 +10,8 @@ Skills: *HTML* / *CSS* / *JS* / *Python*
    <br>
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/Samyak-Bumb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA) -->
 <p align="left">
-<a href="https://codepen.io/samyak-bumb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samyak-bumb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/ucgqzvmhqhbxvwt5vqstc6ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucgqzvmhqhbxvwt5vqstc6ca" height="30" width="40" /></a>
+<a href="https://codepen.io/samyak-bumb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="samyak-bumb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/ucgqzvmhqhbxvwt5vqstc6ca" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Samyak-Bumb/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucgqzvmhqhbxvwt5vqstc6ca" height="30" width="40" /></a>
 </p>
 
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samyak-Bumb&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="Samyak-Bumb" /></span></td>
