@@ -15,6 +15,7 @@ Skills: *HTML* / *CSS* / *JS* / *Python*
 
 <br><br><br><br><br><br>
 
+
 <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak-Bumb"/></span></td>
 <br><br>
 
