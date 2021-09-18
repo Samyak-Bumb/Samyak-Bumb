@@ -17,4 +17,3 @@ Skills: *HTML* / *CSS* / *JS* / *Python*
 <br><br>
 
    ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
