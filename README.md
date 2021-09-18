@@ -1,5 +1,5 @@
 <!-- Created/Designed By Samyak Bumb -->
-### "Hello World" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="cursor: none"> , My Name is Samyak Bumb.
+### "Hello World" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="cursor: none"> , My Name is Samyak Bumb.    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 I Made More than *70* Projects.
 
 Skills: *HTML* / *CSS* / *JS* / *Python*
