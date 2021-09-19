@@ -15,4 +15,4 @@ Skills :- *HTML* / *CSS* / *JavaScript* / *Python*
 <br><br></p>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samyak-bumb&repo=github-readme-stats)](https://github.com/Samyak-Bumb/Neomorphism-Portfolio-By-Samyak) -->
 
-  ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30">
+  ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40" width="40">
