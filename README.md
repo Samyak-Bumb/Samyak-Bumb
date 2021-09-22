@@ -21,5 +21,5 @@ Skills :- *HTML* / *CSS* / *JavaScript* / *Python*
 <br><br></p>
 
 <!-- Profile Views + Emoji -->
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
   ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40" width="40">
