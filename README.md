@@ -2,7 +2,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  "Hello World" <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> , **My Name is Samyak Bumb**.
 I Have Made More Than **90** Projects.
 
-Skills 🧐 :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
+Skills ✔＜（＾－＾）＞ :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
 - 🔭 I’m currently Working on: **Front-End-Development**
 - 🌱 I’m currently Learning: **Competitive Programming**
 - 📫 How to Reach Me: **bumbsamyak07@gmail.com**
