@@ -1,5 +1,5 @@
 <!-- Created/Designed By Samyak Bumb -->
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb :india:**.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb** :india:.
 I Have Made More Than **90** Projects.
 
 Skills ✔＜（＾－＾）＞ :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
@@ -14,7 +14,7 @@ Skills ✔＜（＾－＾）＞ :- *HTML* / *CSS* / *Java* / *JavaScript* / *Pyt
 ## :zap: Samyak's GitHub Stats
 <!-- Samyak's Langauge Used -->
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-BUmb&layout=compact&langs_count=7&theme=radical" alt="Samyak-Bumb"></span></td>
- <br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br>
 <!-- Samyak's GitHub Stats -->
 <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak-Bumb"></span></td>
 
