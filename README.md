@@ -15,7 +15,6 @@ Skills ✔＜（＾－＾）＞ :- *HTML* / *CSS* / *Java* / *JavaScript* / *Pyt
 <!-- Samyak's Langauge Used -->
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-BUmb&layout=compact&langs_count=7&theme=radical" alt="Samyak-Bumb"></span></td>
  <br><br><br><br><br><br><br>
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-BUmb&layout=compact&langs_count=7&theme=radical"> -->
 <!-- Samyak's GitHub Stats -->
 <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak-Bumb"></span></td>
 
