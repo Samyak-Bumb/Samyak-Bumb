@@ -13,12 +13,12 @@ Skills ✔＜（＾－＾）＞ :- *HTML* / *CSS* / *Java* / *JavaScript* / *Pyt
 
 ## :zap: Samyak's GitHub Stats
 <!-- Samyak's Langauge Used -->
-<td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samyak-Bumb&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="Samyak-Bumb"></span></td>
+<td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-BUmb&layout=compact&langs_count=7&theme=radical" alt="Samyak-Bumb"></span></td>
  <br><br><br><br><br><br><br>
- 
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-BUmb&layout=compact&langs_count=7&theme=radical"> -->
 <!-- Samyak's GitHub Stats -->
 <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak-Bumb"></span></td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-BUmb&layout=compact&langs_count=7&theme=radical">
+
 <!-- Profile Views + Emoji -->
 
   ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40" width="40">
