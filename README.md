@@ -18,7 +18,7 @@ Skills ✔＜（＾－＾）＞ :- *HTML* / *CSS* / *Java* / *JavaScript* / *Pyt
  
 <!-- Samyak's GitHub Stats -->
 <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak-Bumb"></span></td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesouz4dev&layout=compact&langs_count=7&theme=nord"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-BUmb&layout=compact&langs_count=7&theme=nord"/>
 <!-- Profile Views + Emoji -->
 
   ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40" width="40">
