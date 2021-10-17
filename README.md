@@ -3,10 +3,10 @@
 I Have Made More Than **90** Projects.
 
 Skills ![image](https://user-images.githubusercontent.com/88429776/136694186-f90a7f8b-f528-4ba1-9192-20e7d5c1c024.png) :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
-◆ 🔭 I’m currently Working on: **Front-End-Development**
-◆ 🌱 I’m currently Learning: **Competitive Programming**
-◆ 📫 How to Reach Me: **bumbsamyak07@gmail.com**
-◆ ⚡ **Fun Fact**: I'm a 16 Years Old Guy
+- 🔭 I’m currently Working on: **Front-End-Development**
+- 🌱 I’m currently Learning: **Competitive Programming**
+- 📫 How to Reach Me: **bumbsamyak07@gmail.com**
+- ⚡ **Fun Fact**: I'm a 16 Years Old Guy
 <!--  Links -->
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60px"> Social Links
  <a href="https://codepen.io/samyakbumb" alt="Samyak's CodePen"><img align="center" src="icons/codepen.png" alt="Samyak Bumb" height="39" width="48"></a><a href="https://github.com/samyak-bumb" target="_blank"><img align="center" src="icons/github.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA" target="_blank"><img align="center" src="icons/youtube.png" alt="Samyak's YouTube Channel" height="30" width="40"></a> <a href="mailto:bumbsamyak07@gmai.com"><img align="center" src="icons/gmail.png" height="30" width="40"></a><br><br>
