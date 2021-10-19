@@ -1,9 +1,9 @@
 <!-- Created/Designed By Samyak Bumb -->
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  "Hello World" :earth_asia: , **My Name is S𐤠𐒄Ƴ𐤠Ƙ Ɓꓴ𐒄Ɓ :heavy_check_mark:** :india:.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb :heavy_check_mark:** :india:.
 I Have Made More Than **90** Projects.
 
 Skills :bulb: :monocle_face: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
-- 🔭 I’m currently Working on: **Front-End-Development**
+- <!-- 🔭 --> :brain: I’m currently Working on: **Front-End-Development**
 - :electron: I’m currently Learning: **Competitive Programming**
 - 📫 How to Reach Me: **bumbsamyak07@gmail.com**
 - :zap: **Fun Fact**: I'm a 16 Years Old Guy
@@ -22,8 +22,8 @@ Skills :bulb: :monocle_face: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python
 
   ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40" width="40">
 
-  <div align="right">
-  <b>
+ <div align="right">
+   <b>
      <a href="#"Hello World"">:arrow_up: Back To Top</a>
-  </b>
-  </div>
+   </b>
+ </div>
