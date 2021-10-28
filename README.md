@@ -10,7 +10,27 @@ Skills :bulb: :monocle_face: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python
 <!--  Links -->
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60px"> Social Links :moneybag::heavy_dollar_sign::moneybag:
  <a href="https://codepen.io/samyakbumb" alt="Samyak's CodePen"><img align="center" src="icons/codepen.png" alt="Samyak Bumb" height="39" width="48"></a><a href="https://github.com/samyak-bumb" target="_blank"><img align="center" src="icons/github.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA" target="_blank"><img align="center" src="icons/youtube.png" alt="Samyak's YouTube Channel" height="30" width="40"></a> <a href="mailto:bumbsamyak07@gmai.com"><img align="center" src="icons/gmail.png" height="30" width="40"></a><br><br>
-
+ ```javascript
+const Samyak = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "HTML", "CSS", "PHP"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express",],
+        },
+        mobileApp: {
+            native: ["Android Development", "Web Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "Sql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Web Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 ## :zap: Samyak's GitHub Stats
 <!-- Samyak's Langauge Used -->
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-BUmb&layout=compact&langs_count=7&theme=radical" alt="Samyak-Bumb"></span></td>
