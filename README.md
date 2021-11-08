@@ -14,17 +14,17 @@ Skills :bulb: :monocle_face: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python
 const Samyak = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "HTML", "CSS", "PHP"],
-    askMeAbout: ["web dev", "tech"],
+    askMeAbout: ["Web Development", "Technology"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express",],
+            js: ["Node"],
         },
         mobileApp: {
-            native: ["Android Development", "Web Development"]
+            native: ["Android Development", "Kotlin"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "Sql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Web Development",
