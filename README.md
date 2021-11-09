@@ -39,7 +39,7 @@ const Samyak = {
 
 <!-- Profile Views + Emoji -->
 
-  ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="40" width="40">
+  ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb) <img src="https://github.com/Samyak-Bumb/Samyak-Bumb/blob/Samyak/gif/style.gif" height="40" width="40">
 
  <div align="right">
    <b>
