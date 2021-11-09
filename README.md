@@ -8,7 +8,7 @@ Skills :bulb: :monocle_face: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python
 - 📫 How to Reach Me: **bumbsamyak07@gmail.com**
 - :zap: **Fun Fact**: I'm a 16 Years Old Guy
 <!--  Links -->
-## <img src="cat.gif" width="60px"> Social Links :moneybag::heavy_dollar_sign::moneybag:
+## <img src="https://github.com/Samyak-Bumb/Samyak-Bumb/blob/Samyak/gif/cat.gif" width="60px"> Social Links :moneybag::heavy_dollar_sign::moneybag:
  <a href="https://codepen.io/samyakbumb" alt="Samyak's CodePen"><img align="center" src="icons/codepen.png" alt="Samyak Bumb" height="39" width="48"></a><a href="https://cssbattle.dev/player/x3A3l1r2xSbbSG4YiULejsZUUhG2"><img align="center" src="icons/cssbattle.png" height="33" width="33"></a> <a href="https://github.com/samyak-bumb" target="_blank"><img align="center" src="icons/github.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA" target="_blank"><img align="center" src="icons/youtube.png" alt="Samyak's YouTube Channel" height="30" width="40"></a> <a href="mailto:bumbsamyak07@gmai.com"><img align="center" src="icons/gmail.png" height="30" width="40"></a><br><br>
  ```javascript
 const Samyak = {
@@ -22,7 +22,6 @@ const Samyak = {
         mobileApp: {
             native: ["Android Development", "Kotlin"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "Sql"],
         misc: ["Firebase", "php"]
     },
