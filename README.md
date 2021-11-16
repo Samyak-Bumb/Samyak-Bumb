@@ -18,7 +18,7 @@ Skills :bulb: :monocle_face: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python
 >>>>>>>>>> <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak Bumb"></span></td>
 
 <!-- Profile Views + Emoji -->
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
   ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb)<img src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/gif/style.gif" height="40" width="40">
 
  <div align="right">
