@@ -15,7 +15,7 @@ Skills :bulb: :monocle_face: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-Bumb&count_private=true&layout=compact&langs_count=8&theme=radical" alt="Samyak Bumb"></span></td>
  <br><br><br><br><br><br><br><br>
 <!-- Samyak's GitHub Stats -->
-<td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak Bumb"></span></td><br><br><br><br>
+<td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak Bumb"></span></td><br><br>
 
 <!-- Profile Views + Emoji -->
 
