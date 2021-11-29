@@ -1,9 +1,9 @@
 <!-- Created/Designed By Samyak Bumb -->
-# <img src="gif/hello.webp" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb** :india:.
+# <img src="gif/hello.webp" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb** <img align="center" src="icons/coding (1).png" alt="Samyak Bumb" height="43" width="43"><br> :india:
 I Have Made More Than **90** Projects.
 
 Skills :bulb: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
-* <!-- 🔭 --> 💡 I’m currently Working on: **Front-End-Development**
+* 💡 I’m currently Working on: **Front-End-Development**
 * :electron: I’m currently Learning: **Competitive Programming**
 * 📫 How to Reach Me: **bumbsamyak07@gmail.com**
 * :zap: **Fun Fact**: I'm a 16 Years Old Guy
