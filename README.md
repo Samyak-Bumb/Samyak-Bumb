@@ -1,6 +1,6 @@
 <!-- Created/Designed By Samyak Bumb -->
 # <img src="gif/hello.webp" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb** <img align="center" src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/icons/coding%20(1).png" alt="Samyak Bumb" height="43" width="43"><br> :india:
-I Have Made More Than **90** Projects.
+I Have Made More Than **130+** Projects.
 
 Skills :bulb: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
 * 💡 I’m currently Working on: **Front-End-Development**
