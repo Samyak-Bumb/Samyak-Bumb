@@ -19,7 +19,7 @@ Skills :bulb: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
 
 <!-- Profile Views + Emoji -->
 
-  ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb)<img src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/gif/style.gif" height="40" width="40">
+<!--   ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb)<img src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/gif/style.gif" height="40" width="40"> -->
 
  <div align="right">
    <b>
