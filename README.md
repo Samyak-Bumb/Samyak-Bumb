@@ -1,8 +1,8 @@
 <!-- Created/Designed By Samyak Bumb -->
 # <img src="gif/hello.webp" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb** :india:
-I Have Made More Than **130+** Projects.
+I Have Made More Than **140+** Projects.
 
-Skills :bulb: :- *HTML* / *CSS* / *Java* / *JavaScript* / *Python*
+Skills :bulb: :- *HTML* / *CSS* / *JavaScript* / *Python*
 * 💡 I’m currently Working on: **Front-End-Development**
 * :electron: I’m currently Learning: **Competitive Programming**
 * 📫 How to Reach Me: **bumbsamyak07@gmail.com**
