@@ -2,13 +2,13 @@
 # <img src="gif/hello.webp" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb** :india:
 I Have Made More Than **140+** Projects.
 
-Skills :bulb: :- *HTML* / *CSS* / *JavaScript* / *Python*
+Skills :bulb: :- *HTML* / *Pug* / *Markdown* / *CSS* / *SASS* / *Scss* / *JavaScript* / *JSON* / *Python* / *AHK* / *Batch* / *VBScript*
 * 💡 I’m currently Working on: **Front-End-Development**
 * :electron: I’m currently Learning: **Competitive Programming**
 * 📫 How to Reach Me: **bumbsamyak07@gmail.com**
-* :zap: **Fun Fact**: I'm a 17 Years Old Guy
+* :zap: **Fun Fact**: I have Created My **Own VS Code Theme**. Name:- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak)**  (Working on it from 1 Year).
 <!--  Links -->
-## <img src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/gif/cat.gif" width="60px"> Social Links :moneybag::heavy_dollar_sign::moneybag:
+## Social Links :moneybag::heavy_dollar_sign::moneybag:
  <a href="https://codepen.io/samyak-bumb" alt="Samyak's CodePen" target="_blank"><img align="center" src="icons/codepen.png" alt="Samyak Bumb" height="39" width="48"></a><a href="https://cssbattle.dev/player/samyak_bumb"><img align="center" src="1.svg" height="37" width="37"></a> <a href="https://github.com/samyak-bumb" target="_blank"><img align="center" src="icons/github.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="https://www.youtube.com/channel/UCGqzvmHqhbxvWt5vqstc6CA" target="_blank"><img align="center" src="icons/youtube.png" alt="Samyak's YouTube Channel" height="30" width="40"></a> <a href="mailto:bumbsamyak07@gmai.com"><img align="center" src="icons/gmail.png" height="30" width="40"></a><br>
 <!-- Samyak's Langauge Used -->
 ## :zap: Samyak's GitHub Stats
