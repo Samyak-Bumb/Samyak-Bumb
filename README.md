@@ -1,11 +1,12 @@
 <!-- Created/Designed By Samyak Bumb -->
+
 # <img src="gif/hello.webp" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb** :india:
 I Have Made More Than **140+** Projects.
 
-Skills :bulb: :- *HTML* / *Pug* / *Markdown* / *CSS* / *SASS* / *Scss* / *JavaScript* / *JSON* / *Python* / *AHK* / *Batch* / *VBScript*
-* 💡 I’m currently Working on: **Front-End-Development**
+Skills :bulb: :- *HTML* / *Pug* / *Markdown* / *CSS* / *SASS* / *Less* / *Scss* / *JavaScript* / *JSON* / *Python* / *AHK* / *Batch* / *PowerShell* / *VBScript*
+* :bulb: I’m currently Working on: **Front-End-Development**
 * :electron: I’m currently Learning: **Competitive Programming**
-* 📫 How to Reach Me: **bumbsamyak07@gmail.com**
+* :email: How to Reach Me: **bumbsamyak07@gmail.com**
 * :zap: **Fun Fact**: I have Created My **Own VS Code Theme**. Name:- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak)**  (Working on it from 1 Year).
 <!--  Links -->
 ## Social Links :moneybag::heavy_dollar_sign::moneybag:
@@ -16,13 +17,7 @@ Skills :bulb: :- *HTML* / *Pug* / *Markdown* / *CSS* / *SASS* / *Scss* / *JavaSc
  <br><br><br><br><br><br><br><br>
 <!-- Samyak's GitHub Stats -->
 <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak Bumb"></span></td><br><br>
-
-<!-- Profile Views + Emoji -->
-
-<!--   ![Profile Views](https://gpvc.arturio.dev/Samyak-Bumb)<img src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/gif/style.gif" height="40" width="40"> -->
-
+<!-- Back to Top -->
  <div align="right">
-   <b>
-     <a href="#"Hello World"">:arrow_up: Back To Top</a>
-   </b>
+   <b><a href="#"Hello World"">:arrow_up: Back To Top</a></b>
  </div>
