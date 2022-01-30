@@ -3,13 +3,14 @@
 # <img src="gif/hello.webp" width="40px">  "Hello World" :earth_asia: , **My Name is Samyak Bumb** :india:
 I Have Made More Than **150+** Projects.
 <!-- Learnd Languages -->
-Skills :bulb: :- *HTML* / *Pug* / *Markdown* / *CSS* / *Scss* / *Less* / *JavaScript* / *JSON* / *Python* / *AHK* / *Batch* / *PowerShell* / *VBScript* / *Registry*
+Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaScript_ / _JSON_ / _Python_ / _AHK_ / _Batch_ / _PowerShell_ / _VBScript_ / _Registry_
 <!-- About Me -->
 * :bulb: I’m currently Working on: **Full-Stack Web Development**
 * :electron: I’m currently Learning: **Competitive Programming**
 * :email: How to Reach Me: **bumbsamyak07@gmail.com**
-* :zap: **Fun Fact**: I have Created My **Own VS Code Theme**. Name:- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak)**  (Working on it from 1 Year)
-<!-- Links -->
+* :zap: **Fun Fact**: I have Created My **Own VS Code Theme**. Name:- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak "VS Code MarketPlace")**
+
+
 ## Social Links :moneybag::heavy_dollar_sign::money_mouth_face::moneybag:
  <a href="https://codepen.io/samyak-bumb" target="_blank"><img align="center" src="icons/codepen.png" alt="Samyak's CodePen" height="39" width="48"></a><a href="https://cssbattle.dev/player/samyak_bumb"><img align="center" src="1.svg" alt="Samyak's CSSBattle" height="37" width="37"></a> <a href="https://github.com/samyak-bumb" target="_blank"><img align="center" src="icons/github.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="mailto:bumbsamyak07@gmai.com"><img align="center" src="icons/gmail.png" alt="Samyak's Gmail" height="30" width="40"></a><br>
 ## :zap: Samyak's GitHub Stats
