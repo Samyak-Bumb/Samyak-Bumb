@@ -15,7 +15,7 @@ Skills :bulb: :- *HTML* / *Pug* / *Markdown* / *CSS* / *Scss* / *Less* / *JavaSc
 ## :zap: Samyak's GitHub Stats
 <!-- Most Langauge Used -->
 <td style="border: none !important;"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-Bumb&count_private=true&layout=compact&langs_count=8&theme=radical" alt="Most Used Language's By Samyak Bumb"></span></td>
- <br><br><br><br><br><br><br>
+ <br><br><br><br><br><br>
 <!-- GitHub Stats -->
 <td style="border: none !important;"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak Bumb's GitHub Stats"></span></td><br><br>
 <!-- Back to Top -->
