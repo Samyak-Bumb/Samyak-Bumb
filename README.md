@@ -1,7 +1,7 @@
 <!-- :copyright Created/Designed By Samyak Bumb -->
 <!-- Start -->
 # <img src="gif/hello.webp" width="40px">  "Hello World" <img src="gif/earth.gif" width="60px">, **My Name is Samyak Bumb** :india:
-I Have Made More Than **150+** Projects.
+I Have Made More Than **140+** Projects.
 <!-- Learnd Languages -->
 Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaScript_ / _JSON_ / _Python_ / _AHK_ / _Batch_ / _PowerShell_ / _VBScript_ / _Registry_
 <!-- About Me -->
