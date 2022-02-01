@@ -11,7 +11,7 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaSc
 * :zap: **Fun Fact**: I have Created My **Own VS Code Theme**. Name:- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak "VS Code MarketPlace")**
 
 
-## Social Links :moneybag::heavy_dollar_sign::money_mouth_face::moneybag:
+## Social Links :moneybag::heavy_dollar_sign::moneybag:
  <a href="https://codepen.io/samyak-bumb" target="_blank"><img align="center" src="icons/codepen.png" alt="Samyak's CodePen" height="39" width="48"></a><a href="https://cssbattle.dev/player/samyak_bumb"><img align="center" src="1.svg" alt="Samyak's CSSBattle" height="37" width="37"></a> <a href="https://github.com/samyak-bumb" target="_blank"><img align="center" src="icons/github.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="mailto:bumbsamyak07@gmai.com"><img align="center" src="icons/gmail.png" alt="Samyak's Gmail" height="30" width="40"></a><br>
 ## :zap: Samyak's GitHub Stats
 <!-- Most Langauge Used -->
