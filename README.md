@@ -5,7 +5,7 @@ I Have Made More Than **140+** :partying_face: Projects.
 <!-- Learnd Languages -->
 Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaScript_ / _JSON_ / _Python_ / _AHK_ / _Batch_ / _PowerShell_ / _VBScript_ / _Registry_
 <!-- About Me -->
-* :heart_eyes: I’m currently Working on: **Full-Stack Web Development**
+* :star_struck: I’m currently Working on: **Full-Stack Web Development**
 * :neutral_face: I’m currently Learning: **Competitive Programming**
 * :email: How to Reach Me: **bumbsamyak07@gmail.com**
 * :medal_military: **Fun Fact**: I have Created My **Own VS Code Theme**. Name:- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak "VS Code MarketPlace")**
