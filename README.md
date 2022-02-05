@@ -1,7 +1,8 @@
 <!-- :copyright: Created/Designed By Samyak Bumb -->
+
 <!-- Start -->
 
-# <img src="gif/hello.webp" width="41px"> "Hello World" <img src="icons/erth.png" width="54px"> **My Name is Samyak Bumb** :india:
+# <img src="gif/hello.webp" width="41px"> "Hello World" <img src="icons/erth.png" width="55px"> **My Name is Samyak Bumb** :india:
 
 I Have Made More Than **140+** :partying_face: Projects.
 
@@ -28,6 +29,6 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaSc
 <!-- GitHub Stats -->
 <td style="border: none !important"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak Bumb's GitHub Stats"></span></td><br><br>
 <!-- Back to Top -->
- <br><p align="left"><b><a href="#">:arrow_up: Back To Top</a></b></p>
+ <br><p align="right"><b><a href="#">:arrow_up: Back To Top</a></b></p>
 
 <!-- End -->
