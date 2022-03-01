@@ -2,7 +2,9 @@
 
 <!-- Start -->
 
-# Hello World, **My Name is Samyak Bumb** :india:
+# Hello World
+
+## **My Name is Samyak Bumb** :india:
 
 I Have Made More Than **140+** :partying_face: Projects
 
