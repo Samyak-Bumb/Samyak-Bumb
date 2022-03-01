@@ -2,7 +2,7 @@
 
 <!-- Start -->
 
-# Hello World, **My Name is Samyak Bumb** :india:
+# <img src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/gif/hello.webp" width="51px"> Jai Jinendra  , **My Name is Samyak Bumb** :india:
 
 I Have Made More Than **140+** :partying_face: Projects
 
