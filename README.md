@@ -12,10 +12,10 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaSc
 
 <!-- About Me -->
 
-- :star_struck: I’m currently Working on: **Full-Stack Web Development**
-- :neutral_face: I’m currently Learning: **Competitive Programming**
-- :email: How to Reach Me: **bumbsamyak07@gmail.com**
-- :medal_military: **Fun Fact**: I have Created My **Own VS Code Theme**. Name:- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak "VS Code MarketPlace")**
+- :star_struck: I’m currently Working on My : **Gf :laughing:**
+- :neutral_face: I’m currently Learning : **Competitive Programming**
+- :email: How to Reach Me : **bumbsamyak07@gmail.com**
+- :medal_military: **Fun Fact**: I have Created My **Own VS Code Theme**. Name :- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak "VS Code MarketPlace")**
 
 ## Social Links :moneybag::heavy_dollar_sign::moneybag:
 
