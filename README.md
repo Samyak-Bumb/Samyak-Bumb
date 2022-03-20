@@ -12,7 +12,7 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaSc
 
 <!-- About Me -->
 
-- :heart_eyes: I’m currently Working on My : **Gf [:smiling_face_with_three_hearts:](https://github.com/Samyak-Bumb/Scret/blob/Samyak/abcr.txt)**. But I'm Trying to Be **Sober** 🧘 :innocent:
+- :heart_eyes: I’m currently Working on My : **Gf [:smiling_face_with_three_hearts:](https://github.com/Samyak-Bumb/Secret/tree/Samyak)**. But I'm Trying to Be **Sober** 🧘 :innocent:
 - :neutral_face: I’m currently Learning : **Competitive Programming**
 - :email: How to Reach Me : **bumbsamyak07@gmail.com**
 - :medal_military: **Fun Fact**: I have Created My **Own VS Code Theme**. Name :- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak "VS Code MarketPlace")**
