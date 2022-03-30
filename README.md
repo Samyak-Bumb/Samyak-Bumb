@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/gif/hello.webp" width="51px"> जय जिनेन्द्र , **My Name is Samyak Bumb** :india:
 
-I Have Made More Than **150+** :partying_face: Projects
+I Have Made More Than **160+** :partying_face: Projects
 
 <!-- Learned Languages -->
 
@@ -27,7 +27,7 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaSc
 <td style="border: none !important"><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-Bumb&count_private=true&layout=compact&langs_count=8&theme=radical" alt="Most Used Language's By Samyak"></span></td>
  <br><br><br><br><br><br>
 <!-- GitHub Stats -->
-<td style="border: none !important"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=dracula" alt="Samyak Bumb's GitHub Stats"></span></td><br><br>
+<td style="border: none !important"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak Bumb's GitHub Stats"></span></td><br><br>
 <!-- Back to Top -->
  <br><p align="right"><b><a href="#">:arrow_up: Back To Top</a></b></p>
 
