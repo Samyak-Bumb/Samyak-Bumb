@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/Samyak-Bumb/Samyak-Bumb/Samyak/gif/hello.webp" width="51px"> जय जिनेन्द्र , **My Name is Samyak Bumb** :india:
 
-I Have Made More Than **160+** :partying_face: Projects
+I Have Published More Than **160+** :partying_face: Projects
 
 <!-- Learned Languages -->
 
@@ -12,8 +12,8 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaSc
 
 <!-- About Me -->
 
-- :heart_eyes: I’m currently Working on : **Gf [:smiling_face_with_three_hearts:](https://github.com/Samyak-Bumb/Scret/blob/Samyak/abcr.txt)**. But I'm Trying to Be **Sober** 🧘 :innocent:
-- :neutral_face: I’m currently Learning : **Competitive Programming**
+- :heart_eyes: I’m Currently Working on : **Gf [:smiling_face_with_three_hearts:](https://github.com/Samyak-Bumb/Scret/blob/Samyak/abcr.txt)**. But I'm Trying to Be **Sober** 🧘 :innocent:
+- :neutral_face: I’m Currently Learning : **About My GF**
 - :email: How to Reach Me : **bumbsamyak07@gmail.com**
 - :medal_military: **Fun Fact**: I have Created My **Own VS Code Theme**. Name :- **[Samyak Bumb Theme](https://marketplace.visualstudio.com/items?itemName=SamyakBumb.samyak "VS Code MarketPlace")**
 
