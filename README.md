@@ -28,6 +28,7 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _CSS_ / _Scss_ / _Less_ / _JavaSc
  <br><br><br><br><br><br>
 <!-- GitHub Stats -->
 <td style="border: none !important"><span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical" alt="Samyak Bumb's GitHub Stats"></span></td><br><br>
+![Alt](https://repobeats.axiom.co/api/embed/8f3c312fc05f0f2bc8e4a12a940663018274604b.svg "Repobeats analytics image")<br><br>
 <!-- Back to Top -->
  <br><p align="right"><b><a href="#">:arrow_up: Back To Top</a></b></p>
 
