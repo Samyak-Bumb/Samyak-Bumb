@@ -7,7 +7,7 @@
 I Have Published More Than **170+** :partying_face: Projects
 
 <!-- Learned Languages -->
-Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _Css_ / _Scss_ / _Less_ / _JavaScript_ / _JSON_ / _Python_ / _AHK_ / _Batch_ / _PowerShell_ / _VBScript_ / _Registry_ / _Git_
+Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _Css_ / _Scss_ / _Less_ / _JavaScript_ / _JSON_ / _Python_ / _AHK_ / _Batch_ / _PowerShell_ / _VBScript_ / _Registry_ / _Git_ / _GDScript_
 
 <!-- About Me -->
 - :heart_eyes: I’m Currently Working on : Trying To Be Sober :lotus_position: [:innocent:](https://github.com/Samyak-Bumb/Scret/blob/Samyak/abcr.txt)
