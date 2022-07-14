@@ -26,12 +26,12 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _Css_ / _Scss_ / _Less_ / _JavaSc
 ![Most Used Language's By Me](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-Bumb&count_private=true&layout=compact&langs_count=9&theme=radical)
 
 <!-- GitHub Stats -->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&show_icons=true&locale=en&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&&hide=prs&show_icons=true&locale=en&theme=radical)
 
 <!-- Theme -->
 ![Theme Stats](https://repobeats.axiom.co/api/embed/8f3c312fc05f0f2bc8e4a12a940663018274604b.svg)
 
-<img align="center" src="https://readme.sainnhe.dev/api/top-langs/?username=samyak-bumb&theme=radical&layout=compact&hide_border=true&border_radius=10&langs_count=8&hide=html&&langs_count=6" alt="Top Langs" />
+![Most Used Language's](https://readme.sainnhe.dev/api/top-langs/?username=samyak-bumb&theme=radical&layout=compact&bg_color=0f1117&hide_border=true&border_radius=10&hide=html&langs_count=8)
 
 <!-- Back to Top -->
  <br><p align="right"><b><a href="#">:arrow_up: Back To Top</a></b></p>
