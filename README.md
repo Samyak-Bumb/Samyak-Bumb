@@ -20,13 +20,13 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _Css_ / _Scss_ / _Less_ / _JavaSc
 
 <a href="https://codepen.io/samyak-bumb"><img align="center" src="icons/codepen.png" alt="Samyak's CodePen" height="39" width="48"></a><a href="https://cssbattle.dev/player/samyak_bumb"><img align="center" src="1.svg" alt="Samyak's CSSBattle" height="37" width="37"></a> <a href="https://github.com/samyak-bumb"><img align="center" src="icons/github.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="https://reddit.com/user/samyakBumb"><img align="center" src="icons/reddit.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="https://deviantart.com/ugyiubnh"><img align="center" src="icons/deviantart.png" alt="Samyak's GitHub" height="40" width="40"></a><br>
 
-## 👑 Hall of fame
+## 👑 Hall of Fame
 
 <!-- Most Langauge Used -->
-![Most Used Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-bumb&hide=html&langs_count=8&layout=compact&text_color=fefefe&hide_border=true&border_radius=10&theme=dracula&bg_color=00111a)
+![Most Used Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-bumb&hide=html&langs_count=8&layout=compact&text_color=fefefe&hide_border=true&border_radius=10&theme=dracula&bg_color=60,5EFCE8,736EFE&title_color=444)
 
 <!-- GitHub Stats -->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&hide_border=true&border_radius=10&hide=prs&show_icons=true&theme=dracula)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&hide_border=true&border_radius=10&hide=prs&show_icons=true&theme=dracula&bg_color=50,736EFE,5EFCE8&title_color=fff)
 
 <!-- Theme -->
 ![Theme Stats](https://repobeats.axiom.co/api/embed/8f3c312fc05f0f2bc8e4a12a940663018274604b.svg)
