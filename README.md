@@ -1,7 +1,7 @@
 <!-- :copyright: Created/Designed By Samyak Bumb -->
 # जय जिनेन्द्र, **My Name is Samyak Bumb** :india:
 
-I Have Published More Than **170+** :partying_face: Projects
+I Have Published More Than **180+** :partying_face: Projects
 
 <!-- Learned Languages -->
 Skills Learned :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _Css_ / _Scss_ / _Less_ / _JavaScript_ / _JSON_ / _Python_ / _AHK_ / _Batch_ / _PowerShell_ / _VBScript_ / _Registry_ / _Git_ / _GDScript_
