@@ -23,10 +23,10 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _Css_ / _Scss_ / _Less_ / _JavaSc
 ## 👑 Hall of Fame
 
 <!-- Most Langauge Used -->
-![Most Used Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-bumb&hide=html&langs_count=8&layout=compact&text_color=fefefe&hide_border=true&border_radius=10&theme=dracula&bg_color=60,5EFCE8,736EFE&title_color=444)
+![Most Used Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-bumb&hide=html&langs_count=8&layout=compact&text_color=fefefe&hide_border=true&border_radius=25&theme=dracula)
 
 <!-- GitHub Stats -->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&hide_border=true&border_radius=10&hide=prs&show_icons=true&theme=dracula&bg_color=50,736EFE,5EFCE8&title_color=fff)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&hide_border=true&border_radius=25&hide=prs&show_icons=true&theme=dracula)
 
 <!-- Theme -->
 ![Theme Stats](https://repobeats.axiom.co/api/embed/8f3c312fc05f0f2bc8e4a12a940663018274604b.svg)
