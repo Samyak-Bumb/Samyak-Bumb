@@ -18,7 +18,7 @@ Skills :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _Css_ / _Scss_ / _Less_ / _JavaSc
 <!-- Social Life -->
 ## Social Links :moneybag::heavy_dollar_sign::moneybag:
 
-<a href="https://codepen.io/samyak-bumb"><img align="center" src="icons/codepen.png" alt="Samyak's CodePen" height="39" width="48"></a><a href="https://cssbattle.dev/player/samyak_bumb"><img align="center" src="1.svg" alt="Samyak's CSSBattle" height="37" width="37"></a> <a href="https://github.com/samyak-bumb"><img align="center" src="icons/github.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="https://reddit.com/user/samyakBumb"><img align="center" src="icons/reddit.png" alt="Samyak's GitHub" height="40" width="40"></a> <a href="https://deviantart.com/ugyiubnh"><img align="center" src="icons/deviantart.png" alt="Samyak's GitHub" height="40" width="40"></a><br>
+<a href="https://codepen.io/samyak-bumb"><img align="center" src="i/codepen.png" height="39" width="48"></a><a href="https://cssbattle.dev/player/samyak_bumb"><img align="center" src="i/cssbattle.png" height="37" width="37"></a> <a href="https://github.com/samyak-bumb"><img align="center" src="i/github.png" height="40" width="40"></a> <a href="https://reddit.com/user/samyakBumb"><img align="center" src="i/reddit.png" height="40" width="40"></a> <a href="https://deviantart.com/ugyiubnh"><img align="center" src="i/deviantart.png" height="40" width="40"></a><br>
 
 ## 👑 Hall of Fame
 
