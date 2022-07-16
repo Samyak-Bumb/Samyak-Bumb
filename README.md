@@ -20,7 +20,7 @@ Skills Learned :bulb: :- _HTML_ / _Pug_ / _Markdown_ / _Css_ / _Scss_ / _Less_ /
 ## :crown: Hall of Fame
 
 <!-- Most Langauge Used -->
-![Most Used Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-bumb&hide=html&langs_count=8&layout=compact&text_color=fefefe&hide_border=true&border_radius=24&theme=dracula)
+![Most Used Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-bumb&hide=html&langs_count=10&layout=compact&text_color=fefefe&hide_border=true&border_radius=24&theme=dracula)
 
 <!-- GitHub Stats -->
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyak-Bumb&hide_border=true&border_radius=24&hide=prs&show_icons=true&theme=dracula)</p>
